@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Back-End and Mobile app development
-- 🌱 I’m currently learning all i can about all technologies
+- 🌱 I’m currently learning all i can about new technologies
 
 <div align="center">
   <a href="https://github.com/Gluuz">
