@@ -1,4 +1,4 @@
-### Hi there i am Bruno Gluszczuk
+### Hi there I am Bruno Gluszczuk
 
 
 - 🔭 I’m currently working on Back-End and Mobile app development
@@ -28,6 +28,6 @@
   <a href = "mailto:brunogluszczukk1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunogluszczuk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Gluuz/Gluuz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
