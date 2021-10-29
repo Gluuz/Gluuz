@@ -1,7 +1,7 @@
 ### Hi there I am Bruno Gluszczuk
 
 
-- 🔭 I’m currently working on Back-End and Mobile app development
+- 🔭 I’m currently working on Back-End and Mobile development
 - 🌱 I’m currently learning all i can about new technologies
 
 <div align="center">
